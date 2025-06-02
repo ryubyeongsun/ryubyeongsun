@@ -1,9 +1,8 @@
-### Hi Welcome, i'm YUNA BAE 👋
+### Hi Welcome, i'm ByeongSun Ryu 👋
 
-#### AI Researcher / Data Engineering
-Developers who create beneficial social values   
-A developer who thinks, researches, creates, and connects to practical realization by web
-
+#### Backend & Frontend Developer
+Developers who create meaningful digital experiences
+A developer who designs logic, builds systems, crafts interfaces, and connects users to real-world solutions through the web
 
 🛠️ Stacks
 
