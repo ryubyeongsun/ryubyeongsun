@@ -17,7 +17,7 @@
 
 **Algorithm Achievements**
 - **Baekjoon Online Judge**: Gold Level
-- **Programmers**: Level 3
+- **Programmers**: Level 2
 - **Samsung SW**: Pro Level
 
 ---
