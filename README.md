@@ -1,41 +1,68 @@
-### Hi Welcome, i'm ByeongSin Ryu 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&text=&animation=twinkling&height=80)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=FFFFFF&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+ByeongSun's+GitHub!+😊)](https://git.io/typing-svg)
+---
 
-#### Backend & Frontend Developer
-Developers who create meaningful digital experiences
-A developer who designs logic, builds systems, crafts interfaces, and connects users to real-world solutions through the web
+### :pushpin: Who am I ?
+- 🎓 조선대학교 컴퓨터공학과 졸업
+- 💻 Backend Developer
+- 🏆 Algorithm Gold Level (Baekjoon) / Programmers Lv.3 / Samsung SW Pro
+- 🔍 Focusing on `Problem Solving` & `Server Development`
+- 🌐 Portfolio: [ryubyeongsun.github.io](https://ryubyeongsun.github.io) (Coming Soon)
 
-🛠️ Stacks
+---
 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/> 
+### :trophy: Problem Solving  
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mnbv3135)](https://solved.ac/mnbv3135)
 
-💪🏼 Tools 
+**Algorithm Achievements**
+- **Baekjoon Online Judge**: Gold Level
+- **Programmers**: Level 3
+- **Samsung SW**: Pro Level
 
- <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/> <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=Vim&logoColor=white"/> <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/> 
+---
+
+### :wrench: Tech Stack
+
+|Category|Contents|
+|:---:|:---:|
+|Programming|<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=black"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>|
+|Frontend|<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>|
+|Database|<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>|
+|AI/ML|<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white"/>|
+
+---
+
+### :hammer_and_wrench: Development Tools
+
+|Category|Contents|
+|:---:|:---:|
+|IDE|<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=IntelliJIDEA&logoColor=white"/> <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=EclipseIDE&logoColor=white"/>|
+|Editor|<img src="https://img.shields.io/badge/Vim-019733?style=flat&logo=Vim&logoColor=white"/>|
+|Environment|<img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=Anaconda&logoColor=white"/>|
+|Version Control|<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>|
+
+---
+
+### :chart_with_upwards_trend: GitHub Stats
+
+<div align="center">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryubyeongsun&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryubyeongsun&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+</div>
 
-🐱 About Me
+---
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yunabae482@gmail.com)](qudtjscjstk5564@gmail.com)
-  [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://joyous-pansy-314.notion.site/1612a809df194bb892e7dc0f4947c300)](https://www.notion.so/242435f791ed4f6f924722222af8c7ca)
-  [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@baeyuna97)](https://blog.naver.com/abcfg89)
+### :mailbox_with_mail: Contact
 
+|Platform|Link|
+|:---:|:---:|
+|Email|[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white)](mailto:qudtjscjstk5564@gmail.com)|
+|Notion|[![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white)](https://www.notion.so/242435f791ed4f6f924722222af8c7ca)|
+|Blog|[![Naver Badge](https://img.shields.io/badge/Blog-03C75A?style=flat&logo=Naver&logoColor=white)](https://blog.naver.com/abcfg89)|
 
-🏅 Algorithm Gold Level. 
+---
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mnbv3135)](https://solved.ac/mnbv3135/)  
-Programmers - Lv3  
-Samsung SW *Pro Level*
-
-
-🏆 Awards
-|Competition|Prize|Date|
-|------|---|---|
-
-
-
-
-There are many parts of the project and development source that I have been unable to disclose due to internal confidentiality and the organizer's pledge of confidentiality.  
-Please understand.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer"/>
