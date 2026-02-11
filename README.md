@@ -4,7 +4,6 @@
 ---
 
 ### :pushpin: Who am I ?
-- 🎓 조선대학교 컴퓨터공학과 졸업
 - 💻 Backend Developer
 - 🏆 Algorithm Gold Level (Baekjoon) / Programmers Lv.3 / Samsung SW Pro
 - 🔍 Focusing on `Problem Solving` & `Server Development`
