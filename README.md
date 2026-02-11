@@ -48,9 +48,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ryubyeongsun&show_icons=true&theme=tokyonight&hide_border=true" />
+![](https://github-readme-stats.vercel.app/api?username=ryubyeongsun&show_icons=true&theme=dark&count_private=true)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryubyeongsun&layout=compact&theme=tokyonight&hide_border=true" />
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ryubyeongsun&layout=compact&theme=dark)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=ryubyeongsun&theme=dark)
 
 </div>
 
