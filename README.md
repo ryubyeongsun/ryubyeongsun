@@ -1,5 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&text=&animation=twinkling&height=80)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=FFFFFF&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+ByeongSun's+GitHub!+😊)](https://git.io/typing-svg)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:2C3E50,100:000000&text=&animation=twinkling&height=80)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=E0E0E0&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+ByeongSun's+GitHub!+😊)](https://git.io/typing-svg)
+
 ---
 
 ### :pushpin: Who am I ?
@@ -47,9 +48,9 @@
 
 <div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryubyeongsun&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=ryubyeongsun&show_icons=true&theme=tokyonight&hide_border=true" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryubyeongsun&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryubyeongsun&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -65,4 +66,4 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:2C3E50&height=120&section=footer"/>
