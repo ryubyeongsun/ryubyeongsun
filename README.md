@@ -1,4 +1,4 @@
-### Hi Welcome, i'm ByeongSun Ryu 👋
+### Hi Welcome, i'm ByeongSin Ryu 👋
 
 #### Backend & Frontend Developer
 Developers who create meaningful digital experiences
