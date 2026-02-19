@@ -7,7 +7,7 @@
 - 💻 Backend Developer
 - 🏆 Algorithm Gold Level (Baekjoon) / Programmers Lv.3 / Samsung SW Pro
 - 🔍 Focusing on `Problem Solving` & `Server Development`
-- 🌐 Portfolio: [ryubyeongsun.github.io](https://ryubyeongsun.github.io) (Coming Soon)
+- 🌐 Portfolio: [ryubyeongsun.github.io](https://ryubyeongsun.github.io/bs_00.github.io/) 
 
 ---
 
